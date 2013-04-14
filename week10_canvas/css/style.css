@@ -1,0 +1,17 @@
+body{
+	margin: 0;
+	font-family: sans-serif;
+}
+
+
+#wrapper {
+	width:500px;
+	height: 500px;
+	margin: 0;
+}
+
+#time{
+	padding: 10px;
+	border: solid thick #FFF;
+	width: 100px;
+}
